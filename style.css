@@ -1,3 +1,4 @@
+
 * {
     padding:0;
     margin :0;
@@ -162,7 +163,7 @@ a{
     display: inline;
     height: 270px;
     width:225px;
-    background-image: url('/learning/photos/cover 1.jpg') ;
+    background-image: url('/Basic-landing-page/photos/cover 1.jpg') ;
     background-repeat: no-repeat;
     background-size: contain;
     
@@ -172,7 +173,7 @@ a{
    
     height: 270px;
     width:225px;
-    background-image: url('/learning/photos/cover 2.jpg') ;
+    background-image: url('/Basic-landing-page/photos/cover 2.jpg') ;
     background-repeat: no-repeat;
     background-size: contain;
 
@@ -182,7 +183,7 @@ a{
     
     height: 270px;
     width:225px;
-    background-image: url('/learning/photos/cover 3.jpg') ;
+    background-image: url('/Basic-landing-page/photos/cover 3.jpg') ;
     background-repeat: no-repeat;
     background-size: contain;
 }
@@ -191,7 +192,7 @@ a{
     
     height: 270px;
     width:225px;
-    background-image: url('/learning/photos/cover 4.jpg') ;
+    background-image: url('/Basic-landing-page/photos/cover 4.jpg') ;
     background-repeat: no-repeat;
     background-size: contain;
 }
@@ -200,7 +201,7 @@ a{
     display: inline;
     height: 270px;
     width:225px;
-    background-image: url('/learning/photos/cover 6.jpg') ;
+    background-image: url('/Basic-landing-page/photos/cover 6.jpg') ;
     background-repeat: no-repeat;
     background-size: contain;
     
@@ -210,7 +211,7 @@ a{
     display: inline;
     height: 270px;
     width:225px;
-    background-image: url('/learning/photos/cover 6.jpg') ;
+    background-image: url('/Basic-landing-page/photos/cover 6.jpg') ;
     background-repeat: no-repeat;
     background-size: contain;
     
@@ -220,7 +221,7 @@ a{
     display: inline;
     height: 270px;
     width:225px;
-    background-image: url('/learning/photos/cover 7.jpg') ;
+    background-image: url('/Basic-landing-page/photos/cover 7.jpg') ;
     background-repeat: no-repeat;
     background-size: contain;
     
@@ -228,9 +229,12 @@ a{
 .flex-box8
 {
     display: inline;
+
+
+
     height: 270px;
     width:225px;
-    background-image: url('/learning/photos/cover 8.jpg') ;
+    background-image: url('/Basic-landing-page/photos/cover 8.jpg') ;
     background-repeat: no-repeat;
     background-size: contain;
     
